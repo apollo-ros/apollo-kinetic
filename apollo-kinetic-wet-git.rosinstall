@@ -538,3 +538,11 @@
     local-name: vision_opencv/vision_opencv
     uri: https://github.com/ros-gbp/vision_opencv-release.git
     version: release/kinetic/vision_opencv/1.12.8-0
+- git:
+    local-name: pb_msgs
+    uri: https://github.com/apollo-ros/pb_msgs.git
+    version: master
+- git:
+    local-name: pb_msgs_example
+    uri: https://github.com/apollo-ros/pb_msgs_example.git
+    version: master
