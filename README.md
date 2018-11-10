@@ -12,6 +12,9 @@ mkdir -p ~/kinetic-ws/src
 cp apollo-kinetic-wet-git.rosinstall ~/kinetic-ws
 cp build.sh ~/kinetic-ws/src
 
+mkdir -p ~/kinetic-ws/third_party
+cp build-third-party.sh ~/kinetic-ws/third_party
+
 cd ~/kinetic-ws
 
 wstool init -j8 src apollo-kinetic-wet-git.rosinstall
@@ -28,14 +31,18 @@ wstool update -j4 -t src
 #   version: release/kinetic/octomap/1.8.1-0
 
 # add the section above to .rosinstall file like other packages, and then do a merge and update
-
-wstool merge -t src apollo-kinetic-wet-git.rosinstall
-wstool update -t src octomap/octomap
+# wstool merge -t src apollo-kinetic-wet-git.rosinstall
+# wstool update -t src octomap/octomap
 
 # start building
 
+# build third party library.
+cd src/third_party
+./build-third-party.sh
+cd ..
+
 cd src
-# build.sh is borrowed from [apollo-platform](https://github.com/ApolloAuto/apollo-platform/blob/master/ros/build.sh)
+# build Kinetic.  (build.sh is borrowed from [apollo-platform](https://github.com/ApolloAuto/apollo-platform/blob/master/ros/build.sh))
 ./build.sh build
 
 
