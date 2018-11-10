@@ -92,8 +92,8 @@
     version: release/kinetic/eigen_stl_containers/0.1.8-0
 - git:
     local-name: gencpp
-    uri: https://github.com/ros-gbp/gencpp-release.git
-    version: release/kinetic/gencpp/0.6.0-0
+    uri: https://github.com/apollo-ros/gencpp.git
+    version: apollo-extend
 - git:
     local-name: geneus
     uri: https://github.com/tork-a/geneus-release.git
@@ -104,16 +104,16 @@
     version: release/kinetic/genlisp/0.4.16-0
 - git:
     local-name: genmsg
-    uri: https://github.com/ros-gbp/genmsg-release.git
-    version: release/kinetic/genmsg/0.5.11-0
+    uri: https://github.com/apollo-ros/genmsg.git
+    version: apollo-extend
 - git:
     local-name: gennodejs
     uri: https://github.com/RethinkRobotics-release/gennodejs-release.git
     version: release/kinetic/gennodejs/2.0.1-0
 - git:
     local-name: genpy
-    uri: https://github.com/ros-gbp/genpy-release.git
-    version: release/kinetic/genpy/0.6.7-0
+    uri: https://github.com/apollo-ros/genpy.git
+    version: apollo-extend
 - git:
     local-name: geometric_shapes
     uri: https://github.com/ros-gbp/geometric_shapes-release.git
@@ -376,8 +376,8 @@
     version: release/kinetic/rosconsole/1.12.14-0
 - git:
     local-name: ros_comm/roscpp
-    uri: https://github.com/ros-gbp/ros_comm-release.git
-    version: release/kinetic/roscpp/1.12.14-0
+    uri: https://github.com/apollo-ros/ros_comm_roscpp.git
+    version: apollo-extend
 - git:
     local-name: ros_comm/rosgraph
     uri: https://github.com/ros-gbp/ros_comm-release.git
@@ -476,20 +476,20 @@
     version: release/kinetic/rosconsole_bridge/0.5.2-0
 - git:
     local-name: roscpp_core/cpp_common
-    uri: https://github.com/ros-gbp/roscpp_core-release.git
-    version: release/kinetic/cpp_common/0.6.11-0
+    uri: https://github.com/apollo-ros/roscpp_core_cpp_common.git
+    version: apollo-extend
 - git:
     local-name: roscpp_core/roscpp_core
     uri: https://github.com/ros-gbp/roscpp_core-release.git
     version: release/kinetic/roscpp_core/0.6.11-0
 - git:
     local-name: roscpp_core/roscpp_serialization
-    uri: https://github.com/ros-gbp/roscpp_core-release.git
-    version: release/kinetic/roscpp_serialization/0.6.11-0
+    uri: https://github.com/apollo-ros/roscpp_core_roscpp_serialization.git
+    version: apollo-extend
 - git:
     local-name: roscpp_core/roscpp_traits
-    uri: https://github.com/ros-gbp/roscpp_core-release.git
-    version: release/kinetic/roscpp_traits/0.6.11-0
+    uri: https://github.com/apollo-ros/roscpp_core_roscpp_traits.git
+    version: apollo-extend
 - git:
     local-name: roscpp_core/rostime
     uri: https://github.com/ros-gbp/roscpp_core-release.git
