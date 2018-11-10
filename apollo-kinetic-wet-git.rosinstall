@@ -1,0 +1,540 @@
+- git:
+    local-name: actionlib
+    uri: https://github.com/ros-gbp/actionlib-release.git
+    version: release/kinetic/actionlib/1.11.13-0
+- git:
+    local-name: angles
+    uri: https://github.com/ros-gbp/geometry_angles_utils-release.git
+    version: release/kinetic/angles/1.9.11-0
+- git:
+    local-name: bond_core/bond
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/kinetic/bond/1.8.1-0
+- git:
+    local-name: bond_core/bond_core
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/kinetic/bond_core/1.8.1-0
+- git:
+    local-name: bond_core/bondcpp
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/kinetic/bondcpp/1.8.1-0
+- git:
+    local-name: bond_core/bondpy
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/kinetic/bondpy/1.8.1-0
+- git:
+    local-name: bond_core/smclib
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/kinetic/smclib/1.8.1-0
+- git:
+    local-name: catkin
+    uri: https://github.com/ros-gbp/catkin-release.git
+    version: release/kinetic/catkin/0.7.14-0
+- git:
+    local-name: catkin_pkg
+    uri: https://github.com/ros-infrastructure/catkin_pkg.git
+    version: 0.4.8
+- git:
+    local-name: class_loader
+    uri: https://github.com/ros-gbp/class_loader-release.git
+    version: release/kinetic/class_loader/0.3.9-0
+- git:
+    local-name: cmake_modules
+    uri: https://github.com/ros-gbp/cmake_modules-release.git
+    version: release/kinetic/cmake_modules/0.4.1-0
+- git:
+    local-name: common_msgs/actionlib_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/actionlib_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/common_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/common_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/diagnostic_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/diagnostic_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/geometry_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/geometry_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/nav_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/nav_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/sensor_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/sensor_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/shape_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/shape_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/stereo_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/stereo_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/trajectory_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/trajectory_msgs/1.12.6-0
+- git:
+    local-name: common_msgs/visualization_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/kinetic/visualization_msgs/1.12.6-0
+- git:
+    local-name: dynamic_reconfigure
+    uri: https://github.com/ros-gbp/dynamic_reconfigure-release.git
+    version: release/kinetic/dynamic_reconfigure/1.5.49-0
+- git:
+    local-name: eigen_stl_containers
+    uri: https://github.com/ros-gbp/eigen_stl_containers-release.git
+    version: release/kinetic/eigen_stl_containers/0.1.8-0
+- git:
+    local-name: gencpp
+    uri: https://github.com/ros-gbp/gencpp-release.git
+    version: release/kinetic/gencpp/0.6.0-0
+- git:
+    local-name: geneus
+    uri: https://github.com/tork-a/geneus-release.git
+    version: release/kinetic/geneus/2.2.6-0
+- git:
+    local-name: genlisp
+    uri: https://github.com/ros-gbp/genlisp-release.git
+    version: release/kinetic/genlisp/0.4.16-0
+- git:
+    local-name: genmsg
+    uri: https://github.com/ros-gbp/genmsg-release.git
+    version: release/kinetic/genmsg/0.5.11-0
+- git:
+    local-name: gennodejs
+    uri: https://github.com/RethinkRobotics-release/gennodejs-release.git
+    version: release/kinetic/gennodejs/2.0.1-0
+- git:
+    local-name: genpy
+    uri: https://github.com/ros-gbp/genpy-release.git
+    version: release/kinetic/genpy/0.6.7-0
+- git:
+    local-name: geometric_shapes
+    uri: https://github.com/ros-gbp/geometric_shapes-release.git
+    version: release/kinetic/geometric_shapes/0.5.4-1
+- git:
+    local-name: geometry/eigen_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/kinetic/eigen_conversions/1.11.9-0
+- git:
+    local-name: geometry/geometry
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/kinetic/geometry/1.11.9-0
+- git:
+    local-name: geometry/kdl_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/kinetic/kdl_conversions/1.11.9-0
+- git:
+    local-name: geometry/tf
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/kinetic/tf/1.11.9-0
+- git:
+    local-name: geometry/tf_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/kinetic/tf_conversions/1.11.9-0
+- git:
+    local-name: geometry2/tf2
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2/0.5.18-0
+- git:
+    local-name: geometry2/tf2_eigen
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_eigen/0.5.18-0
+- git:
+    local-name: geometry2/tf2_geometry_msgs
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_geometry_msgs/0.5.18-0
+- git:
+    local-name: geometry2/tf2_kdl
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_kdl/0.5.18-0
+- git:
+    local-name: geometry2/tf2_msgs
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_msgs/0.5.18-0
+- git:
+    local-name: geometry2/tf2_py
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_py/0.5.18-0
+- git:
+    local-name: geometry2/tf2_ros
+    uri: https://github.com/ros-gbp/geometry2-release.git
+    version: release/kinetic/tf2_ros/0.5.18-0
+- git:
+    local-name: gl_dependency
+    uri: https://github.com/ros-gbp/gl_dependency-release.git
+    version: release/kinetic/gl_dependency/1.1.0-0
+- git:
+    local-name: image_common/camera_calibration_parsers
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/kinetic/camera_calibration_parsers/1.11.13-0
+- git:
+    local-name: image_common/camera_info_manager
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/kinetic/camera_info_manager/1.11.13-0
+- git:
+    local-name: image_common/image_common
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/kinetic/image_common/1.11.13-0
+- git:
+    local-name: image_common/image_transport
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/kinetic/image_transport/1.11.13-0
+- git:
+    local-name: kdl_parser/kdl_parser
+    uri: https://github.com/ros-gbp/kdl_parser-release.git
+    version: release/kinetic/kdl_parser/1.12.11-0
+- git:
+    local-name: image_common/polled_camera
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/kinetic/polled_camera/1.11.13-0
+- git:
+    local-name: image_pipeline/camera_calibration
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/camera_calibration/1.12.23-0
+- git:
+    local-name: image_pipeline/depth_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/depth_image_proc/1.12.23-0
+- git:
+    local-name: image_pipeline/image_pipeline
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/image_pipeline/1.12.23-0
+- git:
+    local-name: image_pipeline/image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/image_proc/1.12.23-0
+- git:
+    local-name: image_pipeline/image_publisher
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/image_publisher/1.12.23-0
+- git:
+    local-name: image_pipeline/image_rotate
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/image_rotate/1.12.23-0
+- git:
+    local-name: image_pipeline/image_view
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/image_view/1.12.23-0
+- git:
+    local-name: image_pipeline/stereo_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/kinetic/stereo_image_proc/1.12.23-0
+- git:
+    local-name: image_transport_plugins/compressed_depth_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release.git
+    version: release/kinetic/compressed_depth_image_transport/1.9.5-0
+- git:
+    local-name: image_transport_plugins/compressed_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release.git
+    version: release/kinetic/compressed_image_transport/1.9.5-0
+- git:
+    local-name: image_transport_plugins/image_transport_plugins
+    uri: https://github.com/ros-gbp/image_transport_plugins-release.git
+    version: release/kinetic/image_transport_plugins/1.9.5-0
+- git:
+    local-name: image_transport_plugins/theora_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release.git
+    version: release/kinetic/theora_image_transport/1.9.5-0
+- git:
+    local-name: message_generation
+    uri: https://github.com/ros-gbp/message_generation-release.git
+    version: release/kinetic/message_generation/0.4.0-0
+- git:
+    local-name: message_runtime
+    uri: https://github.com/ros-gbp/message_runtime-release.git
+    version: release/kinetic/message_runtime/0.4.12-0
+- git:
+    local-name: nodelet_core/nodelet
+    uri: https://github.com/ros-gbp/nodelet_core-release.git
+    version: release/kinetic/nodelet/1.9.14-0
+- git:
+    local-name: nodelet_core/nodelet_core
+    uri: https://github.com/ros-gbp/nodelet_core-release.git
+    version: release/kinetic/nodelet_core/1.9.14-0
+- git:
+    local-name: nodelet_core/nodelet_topic_tools
+    uri: https://github.com/ros-gbp/nodelet_core-release.git
+    version: release/kinetic/nodelet_topic_tools/1.9.14-0
+- git:
+    local-name: octomap/octomap
+    uri: https://github.com/ros-gbp/octomap-release.git
+    version: release/kinetic/octomap/1.8.1-0
+- git:
+    local-name: opencv3
+    uri: https://github.com/ros-gbp/opencv3-release.git
+    version: release/kinetic/opencv3/3.3.1-5
+- git:
+    local-name: orocos_kinematics_dynamics/orocos_kdl
+    uri: https://github.com/smits/orocos-kdl-release.git
+    version: release/kinetic/orocos_kdl/1.3.1-0
+- git:
+    local-name: orocos_kinematics_dynamics/python_orocos_kdl
+    uri: https://github.com/smits/orocos-kdl-release.git
+    version: release/kinetic/python_orocos_kdl/1.3.1-0
+- git:
+    local-name: pcl_conversions
+    uri: https://github.com/ros-gbp/pcl_conversions-release.git
+    version: release/kinetic/pcl_conversions/0.2.1-0
+- git:
+    local-name: pcl_msgs
+    uri: https://github.com/ros-gbp/pcl_msgs-release.git
+    version: release/kinetic/pcl_msgs/0.2.0-0
+- git:
+    local-name: perception_pcl/pcl_ros
+    uri: https://github.com/ros-gbp/perception_pcl-release.git
+    version: release/kinetic/pcl_ros/1.4.4-0
+- git:
+    local-name: perception_pcl/perception_pcl
+    uri: https://github.com/ros-gbp/perception_pcl-release.git
+    version: release/kinetic/perception_pcl/1.4.4-0
+- git:
+    local-name: pluginlib
+    uri: https://github.com/ros-gbp/pluginlib-release.git
+    version: release/kinetic/pluginlib/1.11.3-0
+- git:
+    local-name: robot_state_publisher
+    uri: https://github.com/ros-gbp/robot_state_publisher-release.git
+    version: release/kinetic/robot_state_publisher/1.13.6-0
+- git:
+    local-name: random_numbers
+    uri: https://github.com/ros-gbp/random_numbers-release.git
+    version: release/kinetic/random_numbers/0.3.1-0
+- git:
+    local-name: resource_retriever
+    uri: https://github.com/ros-gbp/resource_retriever-release.git
+    version: release/kinetic/resource_retriever/1.12.4-0
+- git:
+    local-name: ros/mk
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/mk/1.14.4-0
+- git:
+    local-name: ros/ros
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/ros/1.14.4-0
+- git:
+    local-name: ros/rosbash
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosbash/1.14.4-0
+- git:
+    local-name: ros/rosboost_cfg
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosboost_cfg/1.14.4-0
+- git:
+    local-name: ros/rosbuild
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosbuild/1.14.4-0
+- git:
+    local-name: ros/rosclean
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosclean/1.14.4-0
+- git:
+    local-name: ros/roscreate
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/roscreate/1.14.4-0
+- git:
+    local-name: ros/roslang
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/roslang/1.14.4-0
+- git:
+    local-name: ros/roslib
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/roslib/1.14.4-0
+- git:
+    local-name: ros/rosmake
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosmake/1.14.4-0
+- git:
+    local-name: ros/rosunit
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/kinetic/rosunit/1.14.4-0
+- git:
+    local-name: ros_comm/message_filters
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/message_filters/1.12.14-0
+- git:
+    local-name: ros_comm/ros_comm
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/ros_comm/1.12.14-0
+- git:
+    local-name: ros_comm/rosbag
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosbag/1.12.14-0
+- git:
+    local-name: ros_comm/rosbag_storage
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosbag_storage/1.12.14-0
+- git:
+    local-name: ros_comm/rosconsole
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosconsole/1.12.14-0
+- git:
+    local-name: ros_comm/roscpp
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/roscpp/1.12.14-0
+- git:
+    local-name: ros_comm/rosgraph
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosgraph/1.12.14-0
+- git:
+    local-name: ros_comm/roslaunch
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/roslaunch/1.12.14-0
+- git:
+    local-name: ros_comm/roslz4
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/roslz4/1.12.14-0
+- git:
+    local-name: ros_comm/rosmaster
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosmaster/1.12.14-0
+- git:
+    local-name: ros_comm/rosmsg
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosmsg/1.12.14-0
+- git:
+    local-name: ros_comm/rosnode
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosnode/1.12.14-0
+- git:
+    local-name: ros_comm/rosout
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosout/1.12.14-0
+- git:
+    local-name: ros_comm/rosparam
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosparam/1.12.14-0
+- git:
+    local-name: ros_comm/rospy
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rospy/1.12.14-0
+- git:
+    local-name: ros_comm/rosservice
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rosservice/1.12.14-0
+- git:
+    local-name: ros_comm/rostest
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rostest/1.12.14-0
+- git:
+    local-name: ros_comm/rostopic
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/rostopic/1.12.14-0
+- git:
+    local-name: ros_comm/roswtf
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/roswtf/1.12.14-0
+- git:
+    local-name: ros_comm/topic_tools
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/topic_tools/1.12.14-0
+- git:
+    local-name: ros_comm/xmlrpcpp
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/kinetic/xmlrpcpp/1.12.14-0
+- git:
+    local-name: ros_comm_msgs/rosgraph_msgs
+    uri: https://github.com/ros-gbp/ros_comm_msgs-release.git
+    version: release/kinetic/rosgraph_msgs/1.11.2-0
+- git:
+    local-name: ros_comm_msgs/std_srvs
+    uri: https://github.com/ros-gbp/ros_comm_msgs-release.git
+    version: release/kinetic/std_srvs/1.11.2-0
+- git:
+    local-name: ros_environment
+    uri: https://github.com/ros-gbp/ros_environment-release.git
+    version: release/kinetic/ros_environment/1.0.0-0
+- git:
+    local-name: ros_tutorials/ros_tutorials
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/kinetic/ros_tutorials/0.7.1-0
+- git:
+    local-name: ros_tutorials/roscpp_tutorials
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/kinetic/roscpp_tutorials/0.7.1-0
+- git:
+    local-name: ros_tutorials/rospy_tutorials
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/kinetic/rospy_tutorials/0.7.1-0
+- git:
+    local-name: ros_tutorials/turtlesim
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/kinetic/turtlesim/0.7.1-0
+- git:
+    local-name: rosbag_migration_rule
+    uri: https://github.com/ros-gbp/rosbag_migration_rule-release.git
+    version: release/kinetic/rosbag_migration_rule/1.0.0-0
+- git:
+    local-name: rosconsole_bridge
+    uri: https://github.com/ros-gbp/rosconsole_bridge-release.git
+    version: release/kinetic/rosconsole_bridge/0.5.2-0
+- git:
+    local-name: roscpp_core/cpp_common
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/kinetic/cpp_common/0.6.11-0
+- git:
+    local-name: roscpp_core/roscpp_core
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/kinetic/roscpp_core/0.6.11-0
+- git:
+    local-name: roscpp_core/roscpp_serialization
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/kinetic/roscpp_serialization/0.6.11-0
+- git:
+    local-name: roscpp_core/roscpp_traits
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/kinetic/roscpp_traits/0.6.11-0
+- git:
+    local-name: roscpp_core/rostime
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/kinetic/rostime/0.6.11-0
+- git:
+    local-name: roslint
+    uri: https://github.com/ros-gbp/roslint-release.git
+    version: release/kinetic/roslint/0.11.0-0
+- git:
+    local-name: roslisp
+    uri: https://github.com/ros-gbp/roslisp-release.git
+    version: release/kinetic/roslisp/1.9.21-0
+- git:
+    local-name: rospack
+    uri: https://github.com/ros-gbp/rospack-release.git
+    version: release/kinetic/rospack/2.4.4-0
+- git:
+    local-name: stage
+    uri: https://github.com/ros-gbp/stage-release.git
+    version: release/kinetic/stage/4.1.1-1
+- git:
+    local-name: stage_ros
+    uri: https://github.com/ros-gbp/stage_ros-release.git
+    version: release/kinetic/stage_ros/1.7.5-0
+- git:
+    local-name: std_msgs
+    uri: https://github.com/ros-gbp/std_msgs-release.git
+    version: release/kinetic/std_msgs/0.5.11-0
+- git:
+    local-name: urdf/urdf
+    uri: https://github.com/ros-gbp/urdf-release.git
+    version: release/kinetic/urdf/1.12.12-0
+- git:
+    local-name: urdf/urdf_parser_plugin
+    uri: https://github.com/ros-gbp/urdf-release.git
+    version: release/kinetic/urdf_parser_plugin/1.12.12-0
+- git:
+    local-name: vision_opencv/cv_bridge
+    uri: https://github.com/ros-gbp/vision_opencv-release.git
+    version: release/kinetic/cv_bridge/1.12.8-0
+- git:
+    local-name: vision_opencv/image_geometry
+    uri: https://github.com/ros-gbp/vision_opencv-release.git
+    version: release/kinetic/image_geometry/1.12.8-0
+- git:
+    local-name: vision_opencv/vision_opencv
+    uri: https://github.com/ros-gbp/vision_opencv-release.git
+    version: release/kinetic/vision_opencv/1.12.8-0
