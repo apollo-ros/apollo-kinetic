@@ -546,3 +546,7 @@
     local-name: pb_msgs_example
     uri: https://github.com/apollo-ros/pb_msgs_example.git
     version: master
+- git:
+    local-name: ros_comm/rospbconvertor
+    uri: https://github.com/apollo-ros/rospbconvertor.git
+    version: master
